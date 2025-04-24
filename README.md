@@ -8,3 +8,7 @@ In the TRANSFER state, the core of the SPI protocol is executed. The 32-bit data
 
 
 ![spi block diagram](https://github.com/user-attachments/assets/08069f77-d33d-48ec-907c-ccd86b0505ad)
+
+
+![spi blk diagram](https://github.com/user-attachments/assets/57f50cc0-97f9-4dc0-810b-baab08b3970f)
+
